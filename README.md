@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🤝 I’m looking for help with **IT INDUSTRY**
 
-- 👨‍💻 Project [modeling and simulation of battery management system for electric vehicle application](modeling and simulation of battery management system for electric vehicle application)
+- 👨‍💻 Project [modeling and simulation of battery management system for electric vehicle application](PASSWORD BASED ON/OFF CIRCUIT BREAKER, PIEZO ELECRIC GENERATOR)
 
 - 📝 internship [odisha hydro power corporation](odisha hydro power corporation)
 
