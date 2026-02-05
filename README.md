@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 - 📝 internship [odisha hydro power corporation](odisha hydro power corporation)
 
-- 💬 Ask me about **I'm Epili Vivek, a passionate and dedicated engineering student currently pursuing my B.Tech from Biju Patnaik University of Technology, Berhampur. I have a strong interest in IT, cloud computing, and modern technological innovations. During my internship at Odisha Hydro Power Corporation (June–July 2024, Mukhiguda), I gained hands-on experience in both technical and administrative domains, contributing to real-time projects that enhanced team efficiency and practical learning. I'm continuously working to expand my skills and knowledge in the tech field and am eager to contribute meaningfully to innovative teams and future projects.**
+- 💬 Ask me about **I'm Epili Vivek, a passionate and dedicated engineering student completed my B.Tech from Biju Patnaik University of Technology, Berhampur. I have a strong interest in IT, cloud computing, and modern technological innovations. During my internship at Odisha Hydro Power Corporation (June–July 2024, Mukhiguda), I gained hands-on experience in both technical and administrative domains, contributing to real-time projects that enhanced team efficiency and practical learning. I'm continuously working to expand my skills and knowledge in the tech field and am eager to contribute meaningfully to innovative teams and future projects.**
 
 - 📫 How to reach me **epilivivek5555@gmail.com**
 
